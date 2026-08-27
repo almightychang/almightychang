@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/almightychang">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&height=60&lines=%24+whoami;Systems+engineer+%E2%80%94+Rust+%2B+Python;Robotics+%C2%B7+Embedded+%C2%B7+AI+Infrastructure;I+make+software+talk+to+hardware." alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&height=60&lines=%24+whoami;Software+engineer+%E2%80%94+Rust+%2B+Python;Robotics+%C2%B7+Embedded+%C2%B7+AI+Infrastructure;I+make+software+talk+to+hardware." alt="typing header" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=almightychang&style=flat-square&color=7aa2f7&label=visitors" alt="profile views" />
@@ -16,17 +16,11 @@
 ```console
 $ cat ~/.profile
 NAME        Sam
-ROLE        Systems & Robotics Engineer
+ROLE        Software Engineer
 COMPANY     RLWRLD, Inc.
 LOCATION    Seoul, South Korea
 LANGUAGES   Rust · Python · C/C++ · Lua · Shell
 DOMAINS     robotics · embedded · GPU/HPC · observability · dev tooling
-
-$ ls -1 ~/now
-heimdall/            # Rust observability & metrics toolkit
-dancing-clawd/       # Claude Code hook + terminal renderer
-influxdb-stream/     # Rust streaming client for InfluxDB
-blog/                # Astro-powered notes
 
 $ echo $PHILOSOPHY
 "Read the datasheet. Then read it again."
